@@ -33,7 +33,7 @@ namespace ClassMetotDemo
             customer.Add(customer3);
 
             customer.List();
-            customer.Delete(customer3);
+            customer.Delete(customer2);
             customer.List();
 
             Console.ReadLine();

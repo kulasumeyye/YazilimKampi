@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kulas\\source\\repos\\ClassMetotDemo\\ClassMetotDemo\\ClassMetotDemo.csproj",
+      "projectUniqueName": "C:\\Users\\kulas\\Desktop\\YazilimKampi\\ClassMetotDemo\\ClassMetotDemo\\ClassMetotDemo.csproj",
       "projectName": "ClassMetotDemo",
-      "projectPath": "C:\\Users\\kulas\\source\\repos\\ClassMetotDemo\\ClassMetotDemo\\ClassMetotDemo.csproj",
+      "projectPath": "C:\\Users\\kulas\\Desktop\\YazilimKampi\\ClassMetotDemo\\ClassMetotDemo\\ClassMetotDemo.csproj",
       "packagesPath": "C:\\Users\\kulas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kulas\\source\\repos\\ClassMetotDemo\\ClassMetotDemo\\obj\\",
+      "outputPath": "C:\\Users\\kulas\\Desktop\\YazilimKampi\\ClassMetotDemo\\ClassMetotDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
